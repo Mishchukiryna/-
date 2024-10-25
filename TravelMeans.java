@@ -26,4 +26,3 @@ public class TravelMeans {
         return name + " (Speed range: " + lowestSpeed + " - " + highestSpeed + " km/h)";
     }
 }
-
