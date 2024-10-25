@@ -33,5 +33,4 @@ public class City {
     public String toString() {
         return getName() + " (Time Zone: " + getTimeZone().getId() + ")";
     }
-
 }
